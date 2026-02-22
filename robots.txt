@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yakimaplumbingco.com/sitemap.xml
